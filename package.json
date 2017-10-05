@@ -59,7 +59,7 @@
     "cli-table2": "0.2.0",
     "colors": "1.1.2",
     "configstore": "^2.1.0",
-    "express": "4.14.0",
+    "express": "4.16.0",
     "got": "^6.6.3",
     "lodash.merge": "^4.6.0",
     "response-time": "2.3.2",
