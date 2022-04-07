@@ -63,7 +63,7 @@
     "got": "^6.6.3",
     "lodash.merge": "^4.6.0",
     "response-time": "2.3.2",
-    "winston": "2.3.0",
+    "winston": "3.3.0",
     "yargs": "6.4.0"
   },
   "devDependencies": {
